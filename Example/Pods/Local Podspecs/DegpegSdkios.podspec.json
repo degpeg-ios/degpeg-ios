@@ -1,0 +1,22 @@
+{
+  "name": "DegpegSdkios",
+  "version": "0.1.0",
+  "summary": "A short description of DegpegSdkios.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/rakeshkk/DegpegSdkios",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "rakeshkk": "rakeshkk@dewsolutions.com"
+  },
+  "source": {
+    "git": "https://github.com/rakeshkk/DegpegSdkios.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "DegpegSdkios/Classes/**/*"
+}

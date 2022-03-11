@@ -1,0 +1,16 @@
+PODS:
+  - DegpegSdkios (0.1.0)
+
+DEPENDENCIES:
+  - DegpegSdkios (from `../`)
+
+EXTERNAL SOURCES:
+  DegpegSdkios:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DegpegSdkios: 3f13114c69a03697578fe4a24646f3df70b2ea5a
+
+PODFILE CHECKSUM: 720c007870ee79ef77f19f900ae03ff788aa84fc
+
+COCOAPODS: 1.11.2
